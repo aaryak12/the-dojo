@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# The Dojo - A great place to manage your projects
 
 This is a fictional project management app.
 
